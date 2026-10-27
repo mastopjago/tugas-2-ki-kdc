@@ -1,8 +1,8 @@
-## Kelompok
-# 1. Kayana Danendra Kawiswara 5025231286
-# 2. Ahmad Faiz Tajuddin 5025231291
+# Kelompok
+## 1. Kayana Danendra Kawiswara 5025231286
+## 2. Ahmad Faiz Tajuddin 5025231291
 
-## Tugas 2 KI — Key Distribution Scenario (KDC + AES Manual)
+# Tugas 2 KI — Key Distribution Scenario (KDC + AES Manual)
 
 Implementasi skenario distribusi kunci dengan **KDC, Alice, dan Bob** di 3 perangkat (3 IP berbeda).
 Setelah langkah ke-5, Alice dan Bob saling mengirim pesan terenkripsi **AES** secara dua arah.

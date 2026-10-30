@@ -21,7 +21,7 @@ AES, KDC, dan PRNG dibuat **manual** tanpa library kriptografi. Program hanya me
 | `common.py` | Framing pesan TCP, logging, format field |
 | `test_local.py` | Uji otomatis semua skenario di satu mesin |
 
-## Skenario (PPT slide 13)
+## Skenario
 
 ```
 (1) A -> KDC : ID_A || ID_B || N1
